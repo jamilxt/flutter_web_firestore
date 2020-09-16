@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041737732363",
+    "firebase_url": "https://fir-practice-18187.firebaseio.com",
+    "project_id": "fir-practice-18187",
+    "storage_bucket": "fir-practice-18187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041737732363:android:3f96b3adf26fb17076120e",
+        "android_client_info": {
+          "package_name": "com.example.friendlyeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041737732363-2cvesftcs1troe3iaep7r1psllc0avf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF6sNbfOc8Uwc1RUyNYquDRxUEEpAfb4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041737732363-2cvesftcs1troe3iaep7r1psllc0avf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
